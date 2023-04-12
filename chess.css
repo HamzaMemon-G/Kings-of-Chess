@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Open+Sans:wght@700&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #303030;
+}
+ul.nav_link{
+    list-style: none;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: #F5F5F5;
+}
+a:visited{
+    color: white;
+}
+.logo{
+    width: 30px;
+    height: 45px;
+    position: relative;
+    top: 10px;
+    padding: 0px 0px 0px 10px;
+}
+.nav_link{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.links{
+    padding: 5px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    top: -25px;
+    right: 10px;
+}
+.nav{
+    background-color: #FFA500;
+}
+.banner_pic{
+    width: 1920px;
+    height: 900px;
+    opacity: 20%;
+}
+.banner{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.welcome_text{
+    position: absolute;
+    top: 350px;
+    left: 650px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 50px;
+}
+.start{
+    position: absolute;
+    top: 440px;
+    left: 855px;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #FFA500;
+    border: 0px;
+    color: white;
+    font-weight: 700;
+}
