@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Open+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Outfit:wght@700&display=swap');
+
 *{
     padding: 0px;
     margin: 0px;
@@ -30,7 +31,7 @@ a:visited{
     align-items: flex-end;
     justify-content: flex-end;
 }
-.links{
+#links{
     padding: 5px;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
@@ -55,10 +56,10 @@ a:visited{
     position: absolute;
     top: 350px;
     left: 650px;
-    font-family: 'Kanit', sans-serif;
+    font-family: 'Outfit', sans-serif;
     font-size: 50px;
 }
-.start{
+.learn_more{
     position: absolute;
     top: 440px;
     left: 855px;
@@ -69,4 +70,102 @@ a:visited{
     border: 0px;
     color: white;
     font-weight: 700;
+}
+#but_lin{
+    text-decoration: none;
+}
+#top{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    right: 500px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: x-large;
+}
+#about{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    position: relative;
+    text-align: center;
+    top: 60px;
+}
+#top-2{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    position: absolute;
+    top: 330px;
+    left: 500px;
+    right: 500px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: x-large;
+}
+#top-3{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    position: absolute;
+    top: 430px;
+    left: 500px;
+    right: 500px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: x-large;
+}
+#list-1{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    text-justify: inter-word;
+    text-align: justify;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    right: 500px;
+    font-size: large;
+}
+#list-2{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    text-justify: inter-word;
+    text-align: justify;
+    position: absolute;
+    top: 550px;
+    left: 500px;
+    right: 500px;
+    font-size: large;
+}
+#list-3{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    text-justify: inter-word;
+    text-align: justify;
+    position: absolute;
+    top: 600px;
+    left: 500px;
+    right: 500px;
+    font-size: large;
+}
+#list-4{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    text-justify: inter-word;
+    text-align: justify;
+    position: absolute;
+    top: 650px;
+    left: 500px;
+    right: 500px;
+    font-size: large;
+}
+#top-4{
+    font-family: 'Outfit', sans-serif;
+    color: #F5F5F5;
+    position: absolute;
+    top: 710px;
+    left: 500px;
+    right: 500px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: x-large;
 }
