@@ -93,7 +93,7 @@ a:visited{
     top: 60px;
 }
 #top-2{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #F5F5F5;
     position: absolute;
     top: 330px;
@@ -104,10 +104,10 @@ a:visited{
     font-size: x-large;
 }
 #top-3{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #F5F5F5;
     position: absolute;
-    top: 430px;
+    top: 470px;
     left: 500px;
     right: 500px;
     text-justify: inter-word;
@@ -115,57 +115,63 @@ a:visited{
     font-size: x-large;
 }
 #list-1{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #F5F5F5;
     text-justify: inter-word;
     text-align: justify;
     position: absolute;
-    top: 500px;
+    top: 540px;
     left: 500px;
     right: 500px;
     font-size: large;
 }
 #list-2{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #F5F5F5;
     text-justify: inter-word;
     text-align: justify;
     position: absolute;
-    top: 550px;
+    top: 590px;
     left: 500px;
     right: 500px;
     font-size: large;
 }
 #list-3{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #F5F5F5;
     text-justify: inter-word;
     text-align: justify;
     position: absolute;
-    top: 600px;
+    top: 640px;
     left: 500px;
     right: 500px;
     font-size: large;
 }
 #list-4{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #F5F5F5;
     text-justify: inter-word;
     text-align: justify;
     position: absolute;
-    top: 650px;
+    top: 690px;
     left: 500px;
     right: 500px;
     font-size: large;
 }
 #top-4{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #F5F5F5;
     position: absolute;
-    top: 710px;
+    top: 740px;
     left: 500px;
     right: 500px;
     text-justify: inter-word;
     text-align: justify;
     font-size: x-large;
+}
+#li-1{
+    text-decoration: none;
+}
+#list-1:link{
+    color: black;
 }
