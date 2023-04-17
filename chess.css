@@ -74,104 +74,49 @@ a:visited{
 #but_lin{
     text-decoration: none;
 }
-#top{
-    font-family: 'Outfit', sans-serif;
-    color: #F5F5F5;
-    position: absolute;
-    top: 200px;
-    left: 500px;
-    right: 500px;
-    text-justify: inter-word;
-    text-align: justify;
-    font-size: x-large;
-}
 #about{
     font-family: 'Outfit', sans-serif;
     color: #F5F5F5;
     position: relative;
     text-align: center;
-    top: 60px;
+    top: 20px;
+    font-size: 100px;
 }
-#top-2{
-    font-family: 'Open Sans', sans-serif;
-    color: #F5F5F5;
+#top{
+    font-family: 'Outfit', sans-serif;
+    color: #15212f;
     position: absolute;
-    top: 330px;
-    left: 500px;
-    right: 500px;
+    top: 260px;
+    left: 300px;
+    right: 300px;
     text-justify: inter-word;
     text-align: justify;
-    font-size: x-large;
+    font-size: xx-large;
+}
+
+#top-2{
+    font-family: 'Outfit', sans-serif;
+    color: #15212f;
+    position: absolute;
+    top: 430px;
+    left: 300px;
+    right: 300px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: xx-large;
 }
 #top-3{
-    font-family: 'Open Sans', sans-serif;
-    color: #F5F5F5;
+    font-family: 'Outfit', sans-serif;
+    color: #15212f;
     position: absolute;
-    top: 470px;
-    left: 500px;
-    right: 500px;
+    top: 560px;
+    left: 300px;
+    right: 300px;
     text-justify: inter-word;
     text-align: justify;
-    font-size: x-large;
+    font-size: xx-large;
 }
-#list-1{
-    font-family: 'Open Sans', sans-serif;
-    color: #F5F5F5;
-    text-justify: inter-word;
-    text-align: justify;
+#about_background{
     position: absolute;
-    top: 540px;
-    left: 500px;
-    right: 500px;
-    font-size: large;
-}
-#list-2{
-    font-family: 'Open Sans', sans-serif;
-    color: #F5F5F5;
-    text-justify: inter-word;
-    text-align: justify;
-    position: absolute;
-    top: 590px;
-    left: 500px;
-    right: 500px;
-    font-size: large;
-}
-#list-3{
-    font-family: 'Open Sans', sans-serif;
-    color: #F5F5F5;
-    text-justify: inter-word;
-    text-align: justify;
-    position: absolute;
-    top: 640px;
-    left: 500px;
-    right: 500px;
-    font-size: large;
-}
-#list-4{
-    font-family: 'Open Sans', sans-serif;
-    color: #F5F5F5;
-    text-justify: inter-word;
-    text-align: justify;
-    position: absolute;
-    top: 690px;
-    left: 500px;
-    right: 500px;
-    font-size: large;
-}
-#top-4{
-    font-family: 'Open Sans', sans-serif;
-    color: #F5F5F5;
-    position: absolute;
-    top: 740px;
-    left: 500px;
-    right: 500px;
-    text-justify: inter-word;
-    text-align: justify;
-    font-size: x-large;
-}
-#li-1{
-    text-decoration: none;
-}
-#list-1:link{
-    color: black;
+    top: 65px;
 }
