@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
 
 *{
-    padding: 0px;
     margin: 0px;
 }
 body{
     background-color: #303030;
 }
-ul.nav_link{
+.nav_link{
     list-style: none;
 }
 a:link{
@@ -45,7 +44,7 @@ a:visited{
 .banner_pic{
     width: 1920px;
     height: 900px;
-    opacity: 20%;
+    opacity: 50%;
 }
 .banner{
     position: relative;
@@ -71,9 +70,7 @@ a:visited{
     color: white;
     font-weight: 700;
 }
-#but_lin{
-    text-decoration: none;
-}
+
 #about{
     font-family: 'Outfit', sans-serif;
     color: #F5F5F5;
@@ -119,4 +116,65 @@ a:visited{
 #about_background{
     position: absolute;
     top: 65px;
+}
+#main{
+    width: 1920px;
+    height: 1080px;
+}
+.rules{
+    text-align: center;
+}
+#rules{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: 180px;
+    left: 760px;
+}
+#rul_li{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    position: absolute;
+    top: 380px;
+    left: 310px;
+    display: inline-block;
+    text-align: left;
+    font-size: 30px;
+}
+.footer_home{
+    font-family: 'Outfit', sans-serif;
+    background-color: #ff7b00;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+}
+.footer_about{
+    font-family: 'Outfit', sans-serif;
+    background-color: #ff7b00;
+    height: 70px;
+    color: white;
+    font-size: x-large;
+}
+.footer_rules{
+    font-family: 'Outfit', sans-serif;
+    background-color: #ff7b00;
+    height: 50px;
+    color: white;
+    font-size: x-large;
+}
+#watermark{
+    position: absolute;
+    top: 987px;
+    left: 820px;
+}
+#watermark_rul{
+    position: absolute;
+    top: 1170px;
+    left: 820px;
+}
+#watermark_abo{
+    position: absolute;
+    top: 1170px;
+    left: 820px;
 }
