@@ -245,3 +245,51 @@ a:visited{
     margin-right: auto;
     width: 100%;
 }
+#head_credits{
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    position: absolute;
+    top: 200px;
+    left: 820px;
+    font-size: 45px;
+}
+#m1{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    position: absolute;
+    top: 420px;
+    left: 790px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: 35px;
+}
+#m2{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    position: absolute;
+    top: 480px;
+    left: 770px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: 35px;
+}
+#m3{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    position: absolute;
+    top: 540px;
+    left: 780px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: 35px;
+}
+#m4{
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    position: absolute;
+    top: 600px;
+    left: 750px;
+    text-justify: inter-word;
+    text-align: justify;
+    font-size: 35px;
+}
