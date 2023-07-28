@@ -22,10 +22,10 @@ To view the website, simply open the `index.html` file in a web browser. The web
 ## Features
 
 - Home page with an introduction to the game of chess.
+- About us page shows information about us
 - Chess rules and strategies.
 - Profiles of famous chess players.
-- Gallery of chess-related images.
-- Contact page for inquiries and feedback.
+- Credits page
 
 ## Contributing
 
@@ -44,7 +44,7 @@ If you have any questions or suggestions, feel free to reach out:
 
 - Name: Hamza Memon
 - Email: hamzamemon7002@gmail.com
-- Discord: RADAR®#2103
+- Discord: radar.dev
 - Project Link: [Kings of Chess Website](https://github.com/HamzaMemon-G/Kings-of-Chess)
 
 We appreciate your interest and hope you find this website project useful!
