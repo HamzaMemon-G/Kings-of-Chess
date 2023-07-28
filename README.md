@@ -1,6 +1,6 @@
 # Kings of Chess Website
 
-This is a website project developed for a college requirement. The project showcases information about the game of chess and provides resources for chess enthusiasts.
+This is a website project developed for a college project. The project showcases information about the game of chess and provides resources for chess enthusiasts.
 
 ## Languages Used
 
